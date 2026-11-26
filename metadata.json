@@ -1,0 +1,6 @@
+{
+  "name": "VANI Assistant",
+  "description": "VANI - Virtual Assistant for Native Intelligence, an advanced Android AI assistant created by Mr. Rinku with Google AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
